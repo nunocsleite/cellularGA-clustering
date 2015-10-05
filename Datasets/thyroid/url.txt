@@ -1,0 +1,1 @@
+https://www.cs.sfu.ca/~wangk/ucidata/dataset/thyroid-disease/

@@ -1,0 +1,6 @@
+// Run
+// Parameters: <dataset index> <Dataset folder path> <output folder>
+
+$ ./exes 0 ./../../Datasets ./Run1/     // balance
+
+
